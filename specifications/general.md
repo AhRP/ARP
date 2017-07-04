@@ -1,6 +1,6 @@
 
 
-#Backend Calls
+# Backend Calls
 | API Call | Description | Arguments |
 |----------------------|:----------------------------:|-------:|
 | | Creates User | |
@@ -16,13 +16,13 @@
 | | Block User | 
 | | User Location (optional) | | 
 
-#Views
+# Views
 
-#User Diagram
+# User Diagram
 
-#Schema
--User
--ArtPeices
--Chatrooms
+# Schema
+- User
+- ArtPeices
+- Chatrooms
 
-#Relational Diagram
+# Relational Diagram

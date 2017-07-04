@@ -1,2 +1,2 @@
 # ARP
-An art or service selling mobile application that uses venmo direct payment.
+An art or service displaying networking mobile application.
